@@ -148,18 +148,18 @@ alignmentZones = (
 "{1454, 30}",
 "{1034, 20}",
 "{0, -20}",
-"{-482, -20}"
+"{-800, -20}"
 );
-ascender = 1516;
+ascender = 1800;
 capHeight = 1454;
 customParameters = (
 {
 name = typoAscender;
-value = 1927;
+value = 2066;
 },
 {
 name = typoDescender;
-value = -473;
+value = -612;
 },
 {
 name = typoLineGap;
@@ -167,11 +167,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1927;
+value = 2066;
 },
 {
 name = hheaDescender;
-value = -473;
+value = -612;
 },
 {
 name = hheaLineGap;
@@ -194,7 +194,7 @@ name = underlinePosition;
 value = -150;
 }
 );
-descender = -482;
+descender = -800;
 horizontalStems = (
 144,
 112,
@@ -214,18 +214,18 @@ alignmentZones = (
 "{1454, 30}",
 "{1034, 26}",
 "{0, -28}",
-"{-482, -20}"
+"{-800, -20}"
 );
-ascender = 1516;
+ascender = 1800;
 capHeight = 1454;
 customParameters = (
 {
 name = typoAscender;
-value = 1927;
+value = 2066;
 },
 {
 name = typoDescender;
-value = -473;
+value = -612;
 },
 {
 name = typoLineGap;
@@ -233,11 +233,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1927;
+value = 2066;
 },
 {
 name = hheaDescender;
-value = -473;
+value = -612;
 },
 {
 name = hheaLineGap;
@@ -260,7 +260,7 @@ name = underlinePosition;
 value = -150;
 }
 );
-descender = -482;
+descender = -800;
 horizontalStems = (
 206,
 158,
